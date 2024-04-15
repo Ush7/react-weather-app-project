@@ -9,11 +9,14 @@ function App() {
       <footer>
         {" "}
         This project coded by{" "}
-        <a href="/" target="_blank">
+        <a
+          href="https://github.com/Ush7/react-weather-app-project"
+          target="_blank"
+        >
           Unisha Shilpakar
         </a>
         and is{" "}
-        <a href="/" target="_blank">
+        <a href="https://github.com/Ush7" target="_blank">
           open-sourced
         </a>{" "}
         on Github
